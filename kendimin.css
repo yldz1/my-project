@@ -1,0 +1,51 @@
+.navbar-custom {
+    background-color: #000000;
+    /* Black background */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+    /* White text */
+}
+
+.navbar-custom .nav-link:hover {
+    color: #ffcc00;
+    /* Gold hover effect */
+}
+
+.custom-section {
+    background-color: #f8f9fa;
+    /* İsteğe bağlı arka plan rengi */
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.custom-section h2 {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.custom-section p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+}
+
+.başlik {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #000000;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.başlik:hover {
+    text-shadow: 2px 2px 4px;
+
+}
